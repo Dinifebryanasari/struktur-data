@@ -1,0 +1,2 @@
+templet/db/data/ib_logfile0 filter=lfs diff=lfs merge=lfs -text
+templet/db/data/ib_logfile1 filter=lfs diff=lfs merge=lfs -text
